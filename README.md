@@ -50,7 +50,11 @@
 ## <u>**Les Technologies Utilisées**</u>
 + SpringBoot
 + MySQL
-
++ Maven
++ Swagger
++ Hibernate
++ JPA
++ Postman
 
 
 
